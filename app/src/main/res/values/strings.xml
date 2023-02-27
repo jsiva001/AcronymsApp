@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Acronym</string>
+    <string name="query_hint">Enter Minimum 3 Char</string>
+    <string name="btn_text">Find</string>
+</resources>
